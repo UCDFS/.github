@@ -13,8 +13,8 @@ UCD Formula Student is a team of passionate students from University College Dub
 
 We're Ireland's first electric Formula Student team. Our members hail from all year groups and a range of disciplines such as engineering, science, humanities, and business. With a focus on education, technology, and diversity and inclusion, we want to bring sustainable electric vehicles to everybody.  
 
-### 🥳 Follow us 🥳
+### 🥳 Follow Our Socials 🥳
 Find us on [Instagram](https://www.instagram.com/ucdformulastudent/) and [Facebook](https://www.facebook.com/ucdfs/)!
 
 ### 📧 Contact Us 📧
-Get in touch with us via our [website](https://ucdfs.ie/home-1)
+Get in touch with us via the contact page on our [website](https://ucdfs.ie/contact-us)
