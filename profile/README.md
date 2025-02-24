@@ -1,6 +1,6 @@
 <div id="Header-Badges" align="center">
-  <img src="images/image.webp" alt="Banner'">
-  <h1>🏎️ UCDFS 🏎️</h1>
+  <img src="images/banner.jpeg" alt="Banner'">
+  <h1>🏎️ UCD Formula Student 🏎️</h1>
   <a href="https://ucdfs.ie/">
     <img src="https://img.shields.io/badge/Our_Site-red?style=for-the-badge&logo=appveyor&logoColor=white" alt="Our Site badge"/>
   </a>
@@ -9,6 +9,12 @@
   </a>
 </div>
 
----
+UCD Formula Student is a team of passionate students from University College Dublin who are dedicated to designing, building and racing an electric car at the Formula Student UK competition. Our mission is to promote engineering excellence and innovation in the field of motorsports. 
 
-Welcome to UCDFS Github Repo
+We're Ireland's first electric Formula Student team. Our members hail from all year groups and a range of disciplines such as engineering, science, humanities, and business. With a focus on education, technology, and diversity and inclusion, we want to bring sustainable electric vehicles to everybody.  
+
+### 🥳 Follow us 🥳
+Find us on [Instagram](https://www.instagram.com/ucdformulastudent/) and [Facebook](https://www.facebook.com/ucdfs/)!
+
+### 📧 Contact Us 📧
+Get in touch with us via our [website](https://ucdfs.ie/home-1)
